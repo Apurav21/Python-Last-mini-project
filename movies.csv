@@ -1,0 +1,97 @@
+Movie,Genre,Year,Rating,Votes,Duration
+The Shawshank Redemption,Drama,1994,9.3,2900000,142
+The Godfather,Crime,1972,9.2,2000000,175
+The Dark Knight,Action,2008,9.0,2900000,152
+Pulp Fiction,Crime,1994,8.9,2300000,154
+Forrest Gump,Drama,1994,8.8,2300000,142
+Inception,Sci-Fi,2010,8.8,2600000,148
+The Matrix,Sci-Fi,1999,8.7,2100000,136
+Interstellar,Sci-Fi,2014,8.7,2200000,169
+Parasite,Thriller,2019,8.5,1000000,132
+The Prestige,Mystery,2006,8.5,1400000,130
+Gladiator,Action,2000,8.5,1700000,155
+Avengers: Endgame,Action,2019,8.4,1300000,181
+Spider-Man: No Way Home,Action,2021,8.2,900000,148
+Joker,Drama,2019,8.4,1600000,122
+Whiplash,Drama,2014,8.5,1000000,106
+The Departed,Crime,2006,8.5,1400000,151
+Goodfellas,Crime,1990,8.7,1300000,146
+The Green Mile,Drama,1999,8.6,1400000,189
+Dune,Sci-Fi,2021,8.0,900000,155
+Dune: Part Two,Sci-Fi,2024,8.5,650000,166
+Oppenheimer,Drama,2023,8.6,850000,180
+Titanic,Romance,1997,7.9,1300000,194
+Avatar,Sci-Fi,2009,7.8,1400000,162
+The Wolf of Wall Street,Biography,2013,8.2,1600000,180
+La La Land,Romance,2016,8.0,700000,128
+Toy Story,Animation,1995,8.3,1100000,81
+Coco,Animation,2017,8.4,600000,105
+Spirited Away,Animation,2001,8.6,900000,125
+Your Name,Animation,2016,8.4,450000,106
+Get Out,Horror,2017,7.8,750000,104
+A Quiet Place,Horror,2018,7.5,550000,90
+The Conjuring,Horror,2013,7.5,550000,112
+Knives Out,Mystery,2019,7.9,700000,130
+Shutter Island,Mystery,2010,8.2,1500000,138
+Gone Girl,Mystery,2014,8.1,1100000,149
+The Social Network,Biography,2010,7.8,800000,120
+Ford v Ferrari,Biography,2019,8.1,500000,152
+The Truman Show,Comedy,1998,8.2,1200000,103
+Groundhog Day,Comedy,1993,8.0,700000,101
+Superbad,Comedy,2007,7.6,700000,113
+The Grand Budapest Hotel,Comedy,2014,8.1,900000,99
+Mad Max: Fury Road,Action,2015,8.1,1100000,120
+John Wick,Action,2014,7.4,750000,101
+Top Gun: Maverick,Action,2022,8.2,750000,130
+Mission: Impossible - Fallout,Action,2018,7.7,350000,147
+The Martian,Sci-Fi,2015,8.0,950000,144
+Arrival,Sci-Fi,2016,7.9,800000,116
+Blade Runner 2049,Sci-Fi,2017,8.0,650000,164
+Her,Romance,2013,8.0,700000,126
+Before Sunrise,Romance,1995,8.1,350000,101
+The Notebook,Romance,2004,7.8,600000,123
+A Beautiful Mind,Biography,2001,8.2,950000,135
+The Imitation Game,Biography,2014,8.0,900000,114
+12 Angry Men,Drama,1957,9.0,900000,96
+Schindler's List,Drama,1993,9.0,1500000,195
+Fight Club,Drama,1999,8.8,2400000,139
+The Pianist,Drama,2002,8.5,900000,150
+The Usual Suspects,Crime,1995,8.5,1100000,106
+Se7en,Crime,1995,8.6,1900000,127
+The Silence of the Lambs,Thriller,1991,8.6,1600000,118
+Zodiac,Thriller,2007,7.7,550000,157
+The Sixth Sense,Thriller,1999,8.2,1100000,107
+Black Swan,Thriller,2010,8.0,850000,108
+Logan,Action,2017,8.1,800000,137
+The Batman,Action,2022,7.8,800000,176
+Iron Man,Action,2008,7.9,1100000,126
+Guardians of the Galaxy,Action,2014,8.0,1300000,121
+Ratatouille,Animation,2007,8.1,800000,111
+How to Train Your Dragon,Animation,2010,8.1,800000,98
+WALL-E,Animation,2008,8.4,1300000,98
+Finding Nemo,Animation,2003,8.2,1100000,100
+The Hangover,Comedy,2009,7.7,850000,100
+21 Jump Street,Comedy,2012,7.2,600000,109
+The Nice Guys,Comedy,2016,7.4,450000,116
+Crazy Rich Asians,Romance,2018,6.9,250000,120
+About Time,Romance,2013,7.8,400000,123
+Me Before You,Romance,2016,7.4,300000,110
+A Quiet Place Part II,Horror,2020,7.2,250000,97
+It,Horror,2017,7.3,600000,135
+Hereditary,Horror,2018,7.3,350000,127
+Memento,Mystery,2000,8.4,1400000,113
+The Girl with the Dragon Tattoo,Mystery,2011,7.8,550000,158
+Prisoners,Mystery,2013,8.1,800000,153
+The Revenant,Drama,2015,8.0,900000,156
+The Pursuit of Happyness,Biography,2006,8.0,1000000,117
+Catch Me If You Can,Biography,2002,8.1,1100000,141
+The Intouchables,Comedy,2011,8.5,950000,112
+Jojo Rabbit,Comedy,2019,7.9,400000,108
+Everything Everywhere All at Once,Action,2022,7.7,600000,139
+Everything Everywhere All at Once,Comedy,2022,7.7,600000,139
+The Lord of the Rings: Fellowship,Fantasy,2001,8.8,2000000,178
+The Lord of the Rings: Two Towers,Fantasy,2002,8.8,1900000,179
+The Lord of the Rings: Return of the King,Fantasy,2003,9.0,2000000,201
+Harry Potter and the Prisoner of Azkaban,Fantasy,2004,7.9,700000,142
+Pan's Labyrinth,Fantasy,2006,8.2,700000,118
+Pirates of the Caribbean,Fantasy,2003,8.1,1300000,143
